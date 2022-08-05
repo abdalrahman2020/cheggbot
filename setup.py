@@ -2,4 +2,4 @@ from helper import CheggHelper
 
 ff = CheggHelper()
 
-ff.tryLogin('email@email.com', 'Password')
+ff.tryLogin('Ahmedalafoori23@yahoo.com', 'Qwqw1234567890')  
